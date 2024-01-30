@@ -6,6 +6,9 @@
     <Nullable>enable</Nullable>
     <UseWindowsForms>true</UseWindowsForms>
     <ImplicitUsings>enable</ImplicitUsings>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <Title>PDFium</Title>
+    <RepositoryUrl>https://github.com/andybantly/PDFtoImage.git</RepositoryUrl>
   </PropertyGroup>
 
   <ItemGroup>
